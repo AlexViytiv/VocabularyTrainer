@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/Icons">
+        <file>Icons/1469216222_exit.png</file>
+        <file>Icons/1469216227_xmag.png</file>
+        <file>Icons/1469216231_edit.png</file>
+        <file>Icons/1469216233_advancedsettings.png</file>
+        <file>Icons/1469216236_ktip.png</file>
+        <file>Icons/1469216239_button_ok.png</file>
+        <file>Icons/1469216241_kdmconfig.png</file>
+        <file>Icons/1469216245_ksirtet.png</file>
+        <file>Icons/1469216247_db_update.png</file>
+        <file>Icons/1469216250_user_male.png</file>
+        <file>Icons/1469216253_agt_family.png</file>
+        <file>Icons/1469216256_edit_add.png</file>
+        <file>Icons/1469216258_help_index.png</file>
+        <file>Icons/1469216260_ark2.png</file>
+        <file>Icons/1469216262_bookmark.png</file>
+        <file>Icons/1469216325_tutorials.png</file>
+        <file>Icons/1469216330_package_games.png</file>
+        <file>Icons/1469216337_quick_restart.png</file>
+        <file>Icons/1469216340_run.png</file>
+        <file>Icons/1469216342_kfm_home.png</file>
+        <file>Icons/1469216344_error.png</file>
+        <file>Icons/1469216348_lsongs.png</file>
+        <file>Icons/1469216350_reminders.png</file>
+        <file>Icons/1469216357_log.png</file>
+        <file>Icons/1469216377_db_remove.png</file>
+        <file>Icons/Remove.png</file>
+    </qresource>
+</RCC>
